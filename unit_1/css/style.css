@@ -2,13 +2,13 @@ body{
 	background-color: #C82990;
 }
 
-h1,h2{
+h1,h2,ul,li{
 	color: pink;
 }
 p{
 	color: white
 }
-h1,h2,p,a{font-family: "Comic Sans", cursive, sans-serif;
+h1,h2,p,a,ul,li{font-family: "Comic Sans", cursive, sans-serif;
 }
 
 a{color: #B2DED2; 
