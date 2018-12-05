@@ -2,6 +2,9 @@ body{
 	background-color: pink;
 }
 
-h1,p{
+h1,h2{
 	color: blue;
+}
+h3,p{
+	border-color: purple
 }
