@@ -1,5 +1,5 @@
 body{ 
-	background-color: #e6e8fa;
+	background-color: #C82990;
 }
 
 h1,h2{
@@ -7,4 +7,6 @@ h1,h2{
 }
 p{
 	color: white
+}
+h1,h2{font-family: "Comic Sans", cursive, sans-serif;
 }
