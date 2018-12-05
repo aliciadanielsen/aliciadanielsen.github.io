@@ -1,10 +1,10 @@
 body{ 
-	background-color: pink;
+	background-color: e6e8fa;
 }
 
 h1,h2{
-	color: blue;
+	color: pink;
 }
-h3,p{
-	border-color: purple
+p{
+	color: white
 }
