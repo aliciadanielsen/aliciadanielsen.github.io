@@ -6,6 +6,9 @@ h1 {
 	font-style: bold;
 	background-color: #905361;
 }
+a{
+	color: #00CFB4;
+}
 body {
 	font-family:'Nunito Sans',sans-serif;
 	color:#fff;
