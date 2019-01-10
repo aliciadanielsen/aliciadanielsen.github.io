@@ -10,7 +10,8 @@ body {
 	font-family:'Nunito Sans',sans-serif;
 	color: #fff;
 	font-size: 16px;
-	background-color:#00405a;
+	background-color:#00405a
+	font-style:lighter;
 }
 img { width:200px; }
 section {
