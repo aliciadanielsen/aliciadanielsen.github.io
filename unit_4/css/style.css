@@ -3,14 +3,14 @@
 
 h1 {
 	font-size:55px;
-	font-style: bold; 
-
+	font-style: bold;
+	background-color: #905361;
 }
 body {
 	font-family:'Nunito Sans',sans-serif;
 	color:#fff;
 	font-size:16px;
-	background-color:#905361;
+	background-color: #905361;
 	font-style:lighter;
 }
 img { width:200px; }
