@@ -5,7 +5,7 @@
 h1 {
 	font-size:55px;
 	font-style: bold;
-	font-color:white;
+	font-color: white;
 	background-color: ##00405b;
 	font-family:'Coiny',sans-serif;
 }
@@ -26,10 +26,7 @@ img {
 	width:200px; 
 }
 
-section {
-	padding:5em 0;
-}
-nav{
+nav {
 	padding: 5em 0;
 	background-color: #88d3df;
 }
