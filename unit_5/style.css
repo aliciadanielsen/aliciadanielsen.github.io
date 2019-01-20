@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans)
+@import url(https://fonts.googleapis.com/css?family=Coiny)
+* { margin:0; padding:0; box-sizing:border-box; }
+
+h1 {
+	font-size:55px;
+	font-style: bold;
+	font-color:white;
+	background-color: ##00405b;
+	font-family:'Coiny',sans-serif;
+}
+a{
+	color: #00CFB4;
+}
+body {
+	font-family:'Nunito Sans',sans-serif;
+	color:#fff;
+	font-size:16px;
+	background-color: #905361;
+	font-style:lighter;
+}
+img { width:200px; }
+section {
+	padding:5em 0
+	background-color;
+}
