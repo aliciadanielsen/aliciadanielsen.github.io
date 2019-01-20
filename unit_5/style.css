@@ -9,9 +9,11 @@ h1 {
 	background-color: ##00405b;
 	font-family:'Coiny',sans-serif;
 }
+
 a{
 	color: #00CFB4;
 }
+
 body {
 	font-family:'Nunito Sans',sans-serif;
 	color:#fff;
@@ -19,8 +21,15 @@ body {
 	background-color: #905361;
 	font-style:lighter;
 }
-img { width:200px; }
+
+img { 
+	width:200px; 
+}
+
 section {
-	padding:5em 0
-	background-color;
+	padding:5em 0;
+}
+nav{
+	padding: 5em 0;
+	background-color: #88d3df;
 }
