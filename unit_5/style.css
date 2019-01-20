@@ -3,11 +3,11 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 h1 {
-	font-size: 75px;
+	font-size:75px;
 	font-style: bold;
-	font-color: white;
+	color: white;
 	background-color: ##00405b;
-	font-family: 'Coiny',sans-serif;
+	font-family:'Coiny',sans-serif;
 }
 
 a{
@@ -18,7 +18,7 @@ body {
 	font-family:'Nunito Sans',sans-serif;
 	color:#fff;
 	font-size:16px;
-	background-color: #905361;
+	background-color: #88d3df;
 	font-style:lighter;
 }
 
