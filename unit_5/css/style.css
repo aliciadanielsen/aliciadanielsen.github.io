@@ -1,26 +1,58 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito+Sans)
-@import url(https://fonts.googleapis.com/css?family=Coiny)
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans);
+@import url(https://fonts.googleapis.com/css?family=Coiny);
 * { margin:0; padding:0; box-sizing:border-box; }
-
-h1 {
-	font-size:55px;
-	font-style: bold;
-	font-color:white;
-	background-color: #905361;
-	font-family:'Coiny';
-}
-a{
-	color: #00CFB4;
-}
 body {
 	font-family:'Nunito Sans',sans-serif;
 	color:#fff;
 	font-size:16px;
-	background-color: #905361;
-	font-style:lighter;
+	background-color: #88d3df;
 }
-img { width:200px; }
-section {
-	padding:5em 0
-	background-color;#00405b
+header {
+background-color: #00405b;
+padding: 10px;
+}
+
+h1 {
+	font-size:75px;
+	color: white;
+	font-family:'Coiny',sans-serif;
+}
+nav {
+	padding: 5em;
+	background-color: #915261;
+}
+a{
+	color: #00CFB4;
+}
+
+img { 
+	width:100%; 
+}
+span {
+	color:#00405b;
+}
+
+#intro{
+	background-color: #88d3df;
+	padding: 5em;
+}
+
+#opportunities{
+	background-color: #88d3df;
+	padding: 5em;
+}
+.photos{
+	width:33.33%;
+	padding:1em;
+}
+#sponsors{
+	padding: 5em;
+	background-color: #fdf3c8;
+}
+#involved {
+	padding: 5em;
+}
+footer{
+	padding: 5em;
+	background-color: #915261;
 }
