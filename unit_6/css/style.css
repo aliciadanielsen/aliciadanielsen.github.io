@@ -7,29 +7,30 @@ body {
 	font-size:16px;
 	background-color: #88d3df;
 }
-header {
-background-color: #00405b;
-padding: 10px;
+#two_column{
+	background-color: #273b69;
 }
 
-h1 {
-	font-size:75px;
-	color: white;
-	font-family:'Coiny',sans-serif;
-}
-nav {
-	padding: 5em;
-	background-color: #915261;
-	display: block;
-	padding: 5em;
-	width: 500px;
-	float: right;
-	padding: 20px;
-}
- nav a {
- 	margin: 1.8em;
- 	}
 
+#left{
+	float:left;
+	padding-top:0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom:100px;
+	width: 30%;
+	background-color: #1b2b3a;
+	height: 200px;
+}
+#logo {
+	width: 100%;
+}
+
+#right{
+	float:right;
+	width: 50%;
+}
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -37,7 +38,26 @@ nav {
 	clear:both;
 	height:0;
 	font-size: 0;
+	}
+img{ width:100%; 
 }
+
+header {
+}
+
+h1 {
+	font-size:75px;
+	color: white;
+	font-family:'Coiny',sans-serif;
+	background-color: #1b2b3a;
+}
+nav {
+	padding: 5em;
+	background-color: #915261;
+}
+ nav a {
+ 	margin: 1.8em;
+ 	}
 
 a{
 	color: #00CFB4;
@@ -75,6 +95,7 @@ span {
 #sponsors{
 	padding: 5em;
 	background-color: #fdf3c8;
+	clear: both;
 }
 #involved {
 	padding: 5em;
@@ -82,4 +103,12 @@ span {
 footer{
 	padding: 5em;
 	background-color: #915261;
+}
+
+.collumn img {
+	width: 100%;
+}
+
+.collumn p {
+	text-align: center;
 }
