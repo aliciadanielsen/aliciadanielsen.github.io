@@ -106,13 +106,6 @@ background-attachment: fixed;
 	background-color: #88d3df;
 }
 
-.hero h1 
-{
-	font-size: 5em
-	margin-top: 0;
-    margin-bottom: 0.5em;;
-}
-
 #opportunities{
 	width: 100vw;
 	height:100vh;
@@ -126,10 +119,32 @@ background-attachment: fixed;
 float: left;
   width: 50%;
   background-color: #006490;
-
 }
 
  .clearfix:after {
+	visibility: hidden;
+	display: table;
+	content:"";
+	clear:both;
+	height:0;
+	font-size: 0;}
+
+#more-opps {
+	width: 100vw;
+	height:100vh;
+	background-color: #006490;
+	padding: 4em;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.collumn-two{
+float: left;
+  width: 50%;
+  background-color: #006490;
+}
+
+.clearfix2:after {
 	visibility: hidden;
 	display: table;
 	content:"";

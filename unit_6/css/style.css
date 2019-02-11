@@ -122,20 +122,32 @@ background-attachment: fixed;
 	align-items: center;
 	text-align: center;
 }
+
 .collumn{
 float: left;
   width: 50%;
   background-color: #006490;
 
 }
+.clearfix{
+visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
 
- .clearfix:after {
-	visibility: hidden;
-	display: table;
-	content:"";
-	clear:both;
-	height:0;
-	font-size: 0;}
+.collumn2{
+float: left;
+  width: 50%;
+  background-color: #006490;
+  }
+
+#testimonial {
+	padding: 1em
+	background-image:url("rick.");
+}
 
 #involved{ 
 padding: 3em;
