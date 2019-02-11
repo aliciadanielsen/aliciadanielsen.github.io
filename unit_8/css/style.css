@@ -157,6 +157,22 @@ padding: 3em;
 background-color: #915261;
  }
 
+.hero2
+{width: 100vw;
+height:100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+background: url(images/rick.png);
+background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(images/rick.png);
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+
  h2 {
  	text-align: center;
  	padding-bottom: 1em;
