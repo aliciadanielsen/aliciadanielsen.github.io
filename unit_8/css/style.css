@@ -7,6 +7,8 @@ body {
 	font-size:16px;
 	background-color: #88d3df;
 }
+
+
 #two_column{
 	background-color: #915261;
 }
@@ -14,16 +16,12 @@ body {
 
 #left{
 	float:left;
-	padding-top:0px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom:150px;
 	width: 30%;
 	background-color: #1b2b3a;
 	height: 200px;
 }
 #logo {
-	width: 70%;
+	width: 100%;
 }
 
 #right{
@@ -53,8 +51,6 @@ header {
 
 }
 nav {
-	margin-left: 5em;
-	padding: 5em;
 	background-color: #915261;
 	text-align: right;
 
@@ -100,6 +96,11 @@ background-size: cover;
 background-position: center center;
 background-repeat: no-repeat;
 background-attachment: fixed;
+}
+
+h1{
+	width: 60%;
+	font-size: 2em;
 }
 
 #intro{
